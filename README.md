@@ -7,6 +7,10 @@ value 변수에 공격 쿼리 삽입
 params 변수에 패킷 전송 시 필요한 파라미터 삽입
 if ("응답값" in response.text): <- 참값 쿼리 삽입 시 검색되는 응답값 내 문자열 삽입
 
+참고 URL
+https://hyotwo.tistory.com/172
+
+
 
 미리보기
 ![image](https://user-images.githubusercontent.com/52150319/187129349-5c5467cd-f597-40df-9259-22e650d9d5f7.png)
