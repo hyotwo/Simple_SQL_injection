@@ -2,9 +2,13 @@
 서버 과부하를 방지하기 위해 지정한 Payload만 전송하는 간단한 Blind 및 Time Based SQL injection을 위한 툴입니다. A tool for simple Blind and Time Based SQL injection that sends only the specified payload to avoid server overload.
 
 사용법
+
 cookies 변수에 패킷 전송 시 필요한 세션값 삽입
+
 value 변수에 공격 쿼리 삽입
+
 params 변수에 패킷 전송 시 필요한 파라미터 삽입
+
 if ("응답값" in response.text): <- 참값 쿼리 삽입 시 검색되는 응답값 내 문자열 삽입
 
 참고 URL
